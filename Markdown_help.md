@@ -56,7 +56,7 @@ Puedes agregar un identificador opcional de idioma para habilitar el resaltado d
 |JavaScript|Java|
 
 
-![Fotografía del creador](https://avatars.githubusercontent.com/u/73397099?s=460&u=e502b57eb2155cc79c721b54a77c5b8e77d5f3be&v=4)
+![Fotografía del creador](pictures/1695117876891.jpg)
 
 ## Link externos. 
 [Primera Forma - Repositorio Markdown](https://github.com/edinvd/Markdown)
