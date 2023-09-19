@@ -16,6 +16,24 @@ _A list of my commonly used Git commands_
 
 --
 
+## Possible usefuls commands GIT
+
+| Command | Description |
+| ------- | ----------- |
+| `git list` | Shows de username and de emails of the colaborators |
+| `git help "command"` | Helps you with information of any command on git |
+| `touch .gitignore ` | Create a file that is like a trash, where we put changes that are not canon|
+
+
+## Possible usefuls commands TERMINAL
+
+| Command | Description |
+| ------- | ----------- |
+| `gedit "name file` | opens the file on format .txt |
+| `ls -la` | Shows all the files inside a package, and some info of each of them|
+
+
+
 ### Getting & Creating Projects
 
 | Command | Description |
@@ -32,6 +50,9 @@ _A list of my commonly used Git commands_
 | `git add -A` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git reset [file-name]` | Remove a file from de stage area (after you do a "git add" and you wanna remove what you just commited|
+
+
 
 ### Branching & Merging
 
@@ -74,3 +95,4 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
