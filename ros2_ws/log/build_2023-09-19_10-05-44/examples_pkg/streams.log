@@ -1,0 +1,35 @@
+[0.394s] Invoking command in '/home/leo/ros2_ws/src/examples_pkg': PYTHONPATH=/home/leo/ros2_ws/build/examples_pkg/prefix_override:/home/leo/ros2_ws/install/examples_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/examples_pkg build --build-base /home/leo/ros2_ws/build/examples_pkg/build install --record /home/leo/ros2_ws/build/examples_pkg/install.log --single-version-externally-managed
+[0.536s] running egg_info
+[0.537s] creating ../../build/examples_pkg/examples_pkg.egg-info
+[0.537s] writing ../../build/examples_pkg/examples_pkg.egg-info/PKG-INFO
+[0.537s] writing dependency_links to ../../build/examples_pkg/examples_pkg.egg-info/dependency_links.txt
+[0.537s] writing entry points to ../../build/examples_pkg/examples_pkg.egg-info/entry_points.txt
+[0.537s] writing requirements to ../../build/examples_pkg/examples_pkg.egg-info/requires.txt
+[0.537s] writing top-level names to ../../build/examples_pkg/examples_pkg.egg-info/top_level.txt
+[0.537s] writing manifest file '../../build/examples_pkg/examples_pkg.egg-info/SOURCES.txt'
+[0.538s] reading manifest file '../../build/examples_pkg/examples_pkg.egg-info/SOURCES.txt'
+[0.538s] writing manifest file '../../build/examples_pkg/examples_pkg.egg-info/SOURCES.txt'
+[0.539s] running build
+[0.539s] running build_py
+[0.539s] creating /home/leo/ros2_ws/build/examples_pkg/build
+[0.539s] creating /home/leo/ros2_ws/build/examples_pkg/build/lib
+[0.539s] creating /home/leo/ros2_ws/build/examples_pkg/build/lib/examples_pkg
+[0.539s] copying examples_pkg/__init__.py -> /home/leo/ros2_ws/build/examples_pkg/build/lib/examples_pkg
+[0.539s] running install
+[0.544s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.544s]   warnings.warn(
+[0.544s] running install_lib
+[0.544s] creating /home/leo/ros2_ws/install/examples_pkg/lib/python3.10/site-packages/examples_pkg
+[0.544s] copying /home/leo/ros2_ws/build/examples_pkg/build/lib/examples_pkg/__init__.py -> /home/leo/ros2_ws/install/examples_pkg/lib/python3.10/site-packages/examples_pkg
+[0.545s] byte-compiling /home/leo/ros2_ws/install/examples_pkg/lib/python3.10/site-packages/examples_pkg/__init__.py to __init__.cpython-310.pyc
+[0.545s] running install_data
+[0.545s] creating /home/leo/ros2_ws/install/examples_pkg/share/ament_index
+[0.546s] creating /home/leo/ros2_ws/install/examples_pkg/share/ament_index/resource_index
+[0.546s] creating /home/leo/ros2_ws/install/examples_pkg/share/ament_index/resource_index/packages
+[0.546s] copying resource/examples_pkg -> /home/leo/ros2_ws/install/examples_pkg/share/ament_index/resource_index/packages
+[0.546s] copying package.xml -> /home/leo/ros2_ws/install/examples_pkg/share/examples_pkg
+[0.546s] running install_egg_info
+[0.547s] Copying ../../build/examples_pkg/examples_pkg.egg-info to /home/leo/ros2_ws/install/examples_pkg/lib/python3.10/site-packages/examples_pkg-0.0.0-py3.10.egg-info
+[0.547s] running install_scripts
+[0.561s] writing list of installed files to '/home/leo/ros2_ws/build/examples_pkg/install.log'
+[0.577s] Invoked command in '/home/leo/ros2_ws/src/examples_pkg' returned '0': PYTHONPATH=/home/leo/ros2_ws/build/examples_pkg/prefix_override:/home/leo/ros2_ws/install/examples_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/examples_pkg build --build-base /home/leo/ros2_ws/build/examples_pkg/build install --record /home/leo/ros2_ws/build/examples_pkg/install.log --single-version-externally-managed
