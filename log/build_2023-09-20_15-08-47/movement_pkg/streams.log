@@ -1,0 +1,24 @@
+[0.691s] Invoking command in '/home/leo/Examples_For_TFG/ros2_ws/src/movement_pkg': AMENT_PREFIX_PATH=/home/leo/Examples_For_TFG/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/leo/Examples_For_TFG/install/custom_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/leo/Examples_For_TFG/install/custom_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/leo/Examples_For_TFG/build/movement_pkg/prefix_override:/home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages:/home/leo/Examples_For_TFG/install/custom_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/movement_pkg build --build-base /home/leo/Examples_For_TFG/build/movement_pkg/build install --record /home/leo/Examples_For_TFG/build/movement_pkg/install.log --single-version-externally-managed
+[0.932s] running egg_info
+[0.933s] writing ../../../build/movement_pkg/movement_pkg.egg-info/PKG-INFO
+[0.933s] writing dependency_links to ../../../build/movement_pkg/movement_pkg.egg-info/dependency_links.txt
+[0.933s] writing entry points to ../../../build/movement_pkg/movement_pkg.egg-info/entry_points.txt
+[0.933s] writing requirements to ../../../build/movement_pkg/movement_pkg.egg-info/requires.txt
+[0.933s] writing top-level names to ../../../build/movement_pkg/movement_pkg.egg-info/top_level.txt
+[0.936s] reading manifest file '../../../build/movement_pkg/movement_pkg.egg-info/SOURCES.txt'
+[0.937s] writing manifest file '../../../build/movement_pkg/movement_pkg.egg-info/SOURCES.txt'
+[0.937s] running build
+[0.937s] running build_py
+[0.937s] running install
+[0.938s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.938s]   warnings.warn(
+[0.938s] running install_lib
+[0.940s] running install_data
+[0.940s] running install_egg_info
+[0.943s] removing '/home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages/movement_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.943s] Copying ../../../build/movement_pkg/movement_pkg.egg-info to /home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages/movement_pkg-0.0.0-py3.10.egg-info
+[0.944s] running install_scripts
+[0.965s] Installing movement_client script to /home/leo/Examples_For_TFG/install/movement_pkg/lib/movement_pkg
+[0.966s] Installing movement_server script to /home/leo/Examples_For_TFG/install/movement_pkg/lib/movement_pkg
+[0.966s] writing list of installed files to '/home/leo/Examples_For_TFG/build/movement_pkg/install.log'
+[0.994s] Invoked command in '/home/leo/Examples_For_TFG/ros2_ws/src/movement_pkg' returned '0': AMENT_PREFIX_PATH=/home/leo/Examples_For_TFG/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/leo/Examples_For_TFG/install/custom_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/leo/Examples_For_TFG/install/custom_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/leo/Examples_For_TFG/build/movement_pkg/prefix_override:/home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages:/home/leo/Examples_For_TFG/install/custom_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/movement_pkg build --build-base /home/leo/Examples_For_TFG/build/movement_pkg/build install --record /home/leo/Examples_For_TFG/build/movement_pkg/install.log --single-version-externally-managed

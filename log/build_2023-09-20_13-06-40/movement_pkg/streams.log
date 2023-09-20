@@ -1,0 +1,35 @@
+[0.806s] Invoking command in '/home/leo/Examples_For_TFG/ros2_ws/src/movement_pkg': PYTHONPATH=/home/leo/Examples_For_TFG/build/movement_pkg/prefix_override:/home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/movement_pkg build --build-base /home/leo/Examples_For_TFG/build/movement_pkg/build install --record /home/leo/Examples_For_TFG/build/movement_pkg/install.log --single-version-externally-managed
+[1.018s] running egg_info
+[1.019s] creating ../../../build/movement_pkg/movement_pkg.egg-info
+[1.019s] writing ../../../build/movement_pkg/movement_pkg.egg-info/PKG-INFO
+[1.019s] writing dependency_links to ../../../build/movement_pkg/movement_pkg.egg-info/dependency_links.txt
+[1.019s] writing entry points to ../../../build/movement_pkg/movement_pkg.egg-info/entry_points.txt
+[1.019s] writing requirements to ../../../build/movement_pkg/movement_pkg.egg-info/requires.txt
+[1.019s] writing top-level names to ../../../build/movement_pkg/movement_pkg.egg-info/top_level.txt
+[1.020s] writing manifest file '../../../build/movement_pkg/movement_pkg.egg-info/SOURCES.txt'
+[1.021s] reading manifest file '../../../build/movement_pkg/movement_pkg.egg-info/SOURCES.txt'
+[1.022s] writing manifest file '../../../build/movement_pkg/movement_pkg.egg-info/SOURCES.txt'
+[1.022s] running build
+[1.022s] running build_py
+[1.022s] creating /home/leo/Examples_For_TFG/build/movement_pkg/build
+[1.022s] creating /home/leo/Examples_For_TFG/build/movement_pkg/build/lib
+[1.022s] creating /home/leo/Examples_For_TFG/build/movement_pkg/build/lib/movement_pkg
+[1.022s] copying movement_pkg/__init__.py -> /home/leo/Examples_For_TFG/build/movement_pkg/build/lib/movement_pkg
+[1.022s] running install
+[1.022s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.022s]   warnings.warn(
+[1.023s] running install_lib
+[1.023s] creating /home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages/movement_pkg
+[1.023s] copying /home/leo/Examples_For_TFG/build/movement_pkg/build/lib/movement_pkg/__init__.py -> /home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages/movement_pkg
+[1.024s] byte-compiling /home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages/movement_pkg/__init__.py to __init__.cpython-310.pyc
+[1.024s] running install_data
+[1.024s] creating /home/leo/Examples_For_TFG/install/movement_pkg/share/ament_index
+[1.024s] creating /home/leo/Examples_For_TFG/install/movement_pkg/share/ament_index/resource_index
+[1.025s] creating /home/leo/Examples_For_TFG/install/movement_pkg/share/ament_index/resource_index/packages
+[1.025s] copying resource/movement_pkg -> /home/leo/Examples_For_TFG/install/movement_pkg/share/ament_index/resource_index/packages
+[1.025s] copying package.xml -> /home/leo/Examples_For_TFG/install/movement_pkg/share/movement_pkg
+[1.025s] running install_egg_info
+[1.028s] Copying ../../../build/movement_pkg/movement_pkg.egg-info to /home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages/movement_pkg-0.0.0-py3.10.egg-info
+[1.028s] running install_scripts
+[1.046s] writing list of installed files to '/home/leo/Examples_For_TFG/build/movement_pkg/install.log'
+[1.079s] Invoked command in '/home/leo/Examples_For_TFG/ros2_ws/src/movement_pkg' returned '0': PYTHONPATH=/home/leo/Examples_For_TFG/build/movement_pkg/prefix_override:/home/leo/Examples_For_TFG/install/movement_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/movement_pkg build --build-base /home/leo/Examples_For_TFG/build/movement_pkg/build install --record /home/leo/Examples_For_TFG/build/movement_pkg/install.log --single-version-externally-managed

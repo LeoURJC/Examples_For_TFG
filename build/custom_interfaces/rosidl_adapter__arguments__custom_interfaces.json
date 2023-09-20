@@ -1,0 +1,6 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/leo/Examples_For_TFG/ros2_ws/src/custom_interfaces:srv/MyCustomServiceMessage.srv"
+  ]
+}
